@@ -1,0 +1,24 @@
+body {
+    background-color: #81b29a;
+    /* Подключение шрифта */
+    font-family: 'Rubik', Kiwi Maru;
+    margin: 0; 
+    }
+header {
+    background-color:  #3d405b;
+    height: 90px;
+    padding: 8px;
+}
+h1, h2 {
+    margin: 0;
+}
+h1 {
+    margin-bottom: 15px;
+}
+header a {
+    background-color: #f2cc8f;
+    text-decoration: none;
+    color: #e07a5f;
+    border-radius: 10px;
+    padding: 10px;
+}
